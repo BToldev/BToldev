@@ -1,4 +1,14 @@
-## Hi there 👋
+## Opa, tudo bom?👋
+
+☕ Apoie meu trabalho<br>
+Se você curte o que eu faço e quer apoiar, considere fazer uma doação. Isso me ajuda a continuar criando, atualizando e mantendo projetos como este! 🙌
+
+💸 Formas de Doação<br>
+Pode usar o e-mail a seguir tanto para a chave <a href="https://nubank.com.br/cobrar/1nczz9/68292e92-3623-4bb8-b6bb-7a1fd2f0ae88" target="_blank" rel="noopener">PIX<a> quanto para <a href="https://www.paypal.com/donate/?hosted_button_id=THQU5NRU5AA4L" target="_blank" rel="noopener">PayPal<a>.<br>
+btoldprod@gmail.com
+
+💬 Obrigado por apoiar!<br>
+Toda contribuição, pequena ou grande, é bem-vinda e faz diferença 💖
 
 <!--
 **BToldev/BToldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
